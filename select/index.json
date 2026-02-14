@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "君色",
+  "base_artist": "荒木一仁",
+  "createdAt": "2026-02-14T15:32:54.377271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君色",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/01_君色_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君色*コンプリート",
+      "artist": "双葉アオイ(CV.花澤香菜)",
+      "has_synced": false,
+      "path": "select/02_君色_コンプリート_双葉アオイ(CV.花澤香菜).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君色*コンプリート",
+      "artist": "双葉アオイ (花澤香菜)",
+      "has_synced": false,
+      "path": "select/03_君色_コンプリート_双葉アオイ_(花澤香菜).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君色",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_君色_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君色",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/05_君色_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君色",
+      "artist": "Da‐iCE",
+      "has_synced": true,
+      "path": "select/06_君色_Da‐iCE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君色",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/07_君色_Da-iCE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君色",
+      "artist": "荒木一仁",
+      "has_synced": false,
+      "path": "select/pl_01_君色_荒木一仁.txt"
+    }
+  ]
+}
